@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no" ?>
+<sprite red = "0" green = "255" blue = "0" alpha = "128">
+    <animation name = "hej">
+		<frame file = "hej1.png" delay = "1500"></frame> 
+		<frame file = "hej2.png" delay = "1500"></frame>
+    </animation>
+    <animation name = "va">
+		<frame file = "va1.png" delay = "500"></frame> 
+		<frame file = "va2.png" delay = "500"></frame>
+    </animation>
+</sprite>
+

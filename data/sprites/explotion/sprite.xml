@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no" ?>
+<sprite red = "0" green = "255" blue = "0" alpha = "255">
+    <animation name = "explotion">
+		<frame file = "2expl01.bmp" delay = "10"></frame> 
+		<frame file = "2expl02.bmp" delay = "10"></frame>
+		<frame file = "2expl03.bmp" delay = "10"></frame> 
+		<frame file = "2expl04.bmp" delay = "10"></frame>
+		<frame file = "2expl05.bmp" delay = "10"></frame> 
+		<frame file = "2expl06.bmp" delay = "10"></frame>
+		<frame file = "2expl07.bmp" delay = "10"></frame> 
+		<frame file = "2expl08.bmp" delay = "10"></frame>
+		<frame file = "2expl09.bmp" delay = "10"></frame> 
+		<frame file = "2expl10.bmp" delay = "10"></frame>
+		<frame file = "2expl11.bmp" delay = "10"></frame>
+		<frame file = "2expl12.bmp" delay = "10"></frame> 
+		<frame file = "2expl13.bmp" delay = "10"></frame>
+		<frame file = "2expl14.bmp" delay = "10"></frame> 
+		<frame file = "2expl15.bmp" delay = "10"></frame>
+    </animation>
+</sprite>
+
